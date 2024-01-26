@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.one{
+    background-image: url(Koraput.jpg);
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.one h4{
+    color: white;
+    font-size: 10rem;
+    position: absolute;
+    top: 17rem;
+    left: 3rem;
+}
+
+.two{
+    display: flex;
+    padding: 3rem;
+    margin-top: 1.5rem;
+}
+
+.two img{
+    height:350px;
+    width: auto;
+}
+
+.two p{
+    font-size: 1.6rem;
+    padding: 0 3rem;
+    /* border: 2px solid red; */
+    line-height: 2.2rem;
+}
+
+.three{
+    display: flex;
+    padding: 3rem 3rem;
+    margin-top: 2rem;
+    background-color: #DFDFDF;
+
+}
+
+.three p{
+    /* border: 2px solid red; */
+    font-size: 1.6rem;
+    line-height: 2.2rem;
+    padding-right: 3rem;
+}
+
+
+
