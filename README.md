@@ -1,2 +1,2 @@
 # Odisha-Yatra
-A local tourism and travel website for
+A local tourism and travel website for Odisha
